@@ -1,3 +1,1 @@
-A company portal has been created using flask
-
-Projects worked on by me in pycharm
+This project is a Flask-based company portal designed to manage and display employee information. It provides a simple and efficient interface for viewing employee records.
